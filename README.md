@@ -37,3 +37,9 @@ The data is about whether a client has payment difficulties.
 Outcome:
 
 The project aims to deliver a comprehensive tool for credit risk assessment, enhancing the finance company's ability to make informed lending decisions. This tool will not only contribute to reducing financial losses due to bad loans but also support business growth through the identification and approval of creditworthy applicants.
+
+
+Reference :
+1.https://jovian.com/inspired-coder/eda-on-loan-application-case-study
+2.https://www.analyticsvidhya.com/blog/2022/03/exploratory-data-analysis-eda-credit-card-fraud-detection-case-study/
+
